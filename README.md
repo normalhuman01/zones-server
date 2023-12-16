@@ -1,2 +1,2 @@
-# PerfectZones2
-The best Zones for your server.
+# zones-server
+The best zones for your server deployment
